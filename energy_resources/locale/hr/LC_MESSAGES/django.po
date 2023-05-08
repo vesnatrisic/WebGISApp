@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-05 18:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: .\energy\models.py:9
+msgid "Republic of Srpska"
+msgstr "Republika Srpska"
+
+#: .\energy\models.py:10
+msgid "Federation of Bosnia and Herzegovina"
+msgstr "Federacija Bosne i Hercegovine"
+
+#: .\energy\models.py:11
+msgid "District Brcko"
+msgstr "Brčko distrikt"
+
+#: .\energy\models.py:15
+msgid "Una-Sana Canton"
+msgstr "Unsko-sanska županija"
+
+#: .\energy\models.py:16
+msgid "Posavina Canton"
+msgstr "Županija Posavska"
+
+#: .\energy\models.py:17
+msgid "Tuzla Canton"
+msgstr "Tuzlanska županija"
+
+#: .\energy\models.py:18
+msgid "Zenica-Doboj Canton"
+msgstr "Zeničko-dobojska županija"
+
+#: .\energy\models.py:19
+msgid "Bosnian-Podrinje Canton Goražde"
+msgstr "Bosansko-podrinjska županija"
+
+#: .\energy\models.py:20
+msgid "Central Bosnia Canton"
+msgstr "Županija Središnja Bosna"
+
+#: .\energy\models.py:21
+msgid "Herzegovina-Neretva Canton"
+msgstr "Hercegovačko-neretvanska županija"
+
+#: .\energy\models.py:22
+msgid "Herzeg-Bosnian Canton"
+msgstr "Hercegbosanska županija"
+
+#: .\energy\models.py:23
+msgid "Sarajevo Canton"
+msgstr "Sarajevska županija"
+
+#: .\energy\models.py:24
+msgid "Western Herzegovina Canton"
+msgstr "Županija Zapadnohercegovačka"
+
+#: .\energy\models.py:28
+msgid "Urban"
+msgstr "urbano"
+
+#: .\energy\models.py:29
+msgid "Rural"
+msgstr "ruralno"
+
+#: .\energy_resources\settings.py:143
+msgid "English"
+msgstr "Engleski"
+
+#: .\energy_resources\settings.py:144
+msgid "Serbian"
+msgstr "Srpski"
+
+#: .\energy_resources\settings.py:145
+msgid "Bosnian"
+msgstr "Bosanski"
+
+#: .\energy_resources\settings.py:146
+msgid "Croatian"
+msgstr "Hrvatski"
